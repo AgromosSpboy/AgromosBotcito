@@ -8,6 +8,7 @@ conn.send3Button(m.chat, `
             
             *que espera para usarme a tu antojo?* 😈
 
+                 _soy AgromosBot conquistando el mundo con estilo y elegancia_ 😼
 
 
 
@@ -29,10 +30,6 @@ conn.send3Button(m.chat, `
 
 
 
-Soy Faraón Love Shady conquistando el mundo con estilo y elegancia
-
-
-Fu
 
 `.trim(), 'AGROMOS SP - Bot©', '🔵 MENÚ 🔵', `#menu`, '🔴 MENÚ NUEVO🔴', `#menunuevo`, '🟡 MENÚ AUDIOS 🟡', `#menuaudios`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
