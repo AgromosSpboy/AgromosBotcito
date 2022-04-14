@@ -21,7 +21,8 @@ let info = `
  6 https://chat.whatsapp.com/LGg7jeOW7njH19daSmxmnd.      
  
  ➤*Grupo 7 oficial del Bot*.    
-  7 https://chat.whatsapp.com/HU7rarNBYc1ImtD644WIsh
+  7 https://chat.whatsapp.com/IGusBLuIwdM7s4vHoJRAps.       
+  *unete y te divertiras un monton*
   
 `.trim() 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 AGROMOS SP - BOT 🔥*', 'status@broadcast')}
