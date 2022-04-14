@@ -4,7 +4,10 @@ if (!(m.chat in global.DATABASE._data.chats)) return m.reply('*Este chat no est�
 let chat = global.DATABASE._data.chats[m.chat]
 if (chat.isBanned) return m.reply('*Este chat ya estaba baneado previamente*\n*Si desea desbanearlo use /unbanchat*')
 chat.isBanned = true
-m.reply('*Este chat ha sido baneado a desicion de un administrador del grupo*')
+m.reply('*Este chat ha sido baneado por incumplir alguna norma del bot si cree que se trate de un error  comuniquese con 
+        el bot principal http://wa.me/595983186566
+       *')
+        
 // } else m.reply('Aquí hay un número de un host...')
 }
 handler.command = /^banchat$/i
