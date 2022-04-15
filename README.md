@@ -57,8 +57,8 @@ cada que el link del WhatsApp recomendado deje de funcionar reportar para restab
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/Agromos0/AgromosBotV2
-> cd AgromosBotV2
+> git clone https://github.com/AgromosSpboy/AgromosBotcito
+> cd AgromosBotcito
 > npm install
 > npm install -g npm@8.5.3
 > npm update
